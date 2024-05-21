@@ -1,0 +1,17 @@
+#cal_title {
+    width: 12%;
+    height: 10vh;
+    display : flex; 
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px; 
+    
+}
+
+#cal_text {
+    width: 60%; 
+    height: 20vh;
+    padding: 10px;
+    display: flex; 
+    justify-content:  center; 
+}

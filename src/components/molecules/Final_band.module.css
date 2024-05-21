@@ -1,0 +1,13 @@
+#cal_text {
+    width: 25%;
+    height: 12vh;
+    display: flex; 
+    justify-content: flex-start; 
+    padding: 10px; 
+    align-items: center; 
+}
+
+#cal_songs {
+    width: 25%;
+    height: 12vh;
+}

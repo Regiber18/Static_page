@@ -1,0 +1,12 @@
+#cal_name {
+    width: 25%;
+    height: 12vh;
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black ; 
+}
+
+#cal_image {
+    width: 100px;
+    height: 10vh;
+}

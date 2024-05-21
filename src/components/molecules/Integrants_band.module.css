@@ -1,0 +1,14 @@
+
+.cal_images {
+     width: 15%;
+    height: 25vh;
+    border: 1px solid black; 
+}
+
+.cal_integrants {
+    display: flex;
+    justify-content: center ;
+    align-items: flex-end;
+    align-content: flex-end;
+    
+}
