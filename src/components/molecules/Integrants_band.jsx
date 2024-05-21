@@ -1,5 +1,5 @@
 import Integrants_band from "../atoms/integrants_band/Integrants"
-import Images1 from "../Data/Data"
+import Images1 from "../data/Data"
 import Style from "./Integrants_band.module.css"
 
 

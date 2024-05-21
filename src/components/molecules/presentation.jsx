@@ -1,6 +1,6 @@
 import Name from "../atoms/name_band/name"
 import Style from "./presentation.module.css"
-import Images1 from "../Data/Data_new"
+import Images1 from "../data/Data_new"
 function Presentation() {
     
     return(
